@@ -29,7 +29,7 @@ Feel free to explore my repositories to see examples of my work. I'm constantly 
 
 ## 🚀 Let's Connect and Code
 
-I'm open to new projects and collaborations. Let's chat on [LinkedIn](#) and feel free to explore my code playground here!
+I'm open to new projects and collaborations. Let's chat on [LinkedIn](https://linkedin.com/in/sandipgify) and feel free to explore my code playground here!
 
 ## 📊 GitHub Stats
 <div align="center">
